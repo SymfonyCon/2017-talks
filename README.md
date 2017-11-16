@@ -210,7 +210,7 @@ By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)
   <dd>This talk will not offer you the ever-lasting debate between REST and GraphQL but intends to show you some real stuff. Increasingly used by web giants like Facebook, GitHub, Pinterest, or Shopify, GraphQL has attracted my curiosity, up to the point to make me use it in production. This conference aims to detail the different problems that I encountered while implementing GraphQL, and give you a description of what it is possible to obtain (we speak of schema). We’ll also discuss the new queries paradigm : giving the client the ability to ask for exactly what one needs, including sorting, pagination without puting aside security. Eventually, we’ll explore the new way of writing data using mutations, while maintaining good performance with application cache.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://spyl.net/slides/symfonycon-cluj-2017#/) 
 ~~Video~~
 
 By [Aurélien David](https://connect.sensiolabs.com/profile/spyl)  
