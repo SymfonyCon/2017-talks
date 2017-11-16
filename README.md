@@ -162,7 +162,7 @@ By [Michelle Sanver](https://connect.sensiolabs.com/profile/michellesanver)
   <dd>Event-based architectures such as Event Sourcing provide multiple benefits: scalability, complexity management, auditing, etc. However, let’s face it, getting there is quite hard. We lack skills, expertise and courage. In this talk, I’m going to show you some tips and tricks to painless evolve your current architecture towards Event Sourcing, one small step at a time. We’ll start from an Hexagonal Architecture application and we’ll end up in the Event Sourcing doors. The path that we’ll follow is: Hexagonal Architecture; Hexagonal Architecture with Domain Events; Stepping Stone Architecture (CQRS without Event Sourcing); Event Sourcing</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/carlosbuenosvinos/a-journey-from-hexagonal-architecture-to-event-sourcing-symfonycon-cluj-2017)  
 ~~Video~~
 
 By [Carlos Buenosvinos](https://connect.sensiolabs.com/profile/carlosbuenosvinos)  
