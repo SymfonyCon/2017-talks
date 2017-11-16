@@ -51,7 +51,7 @@ By [Caliman Alin Adrian](https://connect.sensiolabs.com/profile/acaliman)
   <dd>Symfony keeps evolving adding new features, fixing bugs and reorganizing its structure to support more and more projects. But Symfony also evolves in term of performances. This talks will detail how the PHP 7 engine works, how memory and CPU are used in the heart of PHP, how classes, objects, variables and arrays work. Then we'll see how Symfony got patched to take care of the latest optimizations brought to the PHP engine. We'll dive into OPCache, into the memory manager and the internals of PHP 7 to notice why Symfony's code has been patched in such ways that it now performs better.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/jpauli/symfonycon-2017-php7-performances)
 ~~Video~~
 
 By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)  
