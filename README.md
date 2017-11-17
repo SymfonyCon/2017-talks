@@ -226,7 +226,7 @@ By [Aurélien David](https://connect.sensiolabs.com/profile/spyl)
   <dd>All web applications have forms, either simple or complex. This talk will address some of the complex scenarios with forms that change depending on the data entered and have dynamically generated fields (server and client side). Using form events and taking advantage of the form rendering flexibility can create some impressive results. The examples are based on real-life scenarios I have encountered in the five years of using the Symfony Framework.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/redecs/making-the-most-out-of-symfony-forms)  
 ~~Video~~
 
 By [Mihai Nica](https://connect.sensiolabs.com/profile/redecs)  
