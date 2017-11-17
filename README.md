@@ -338,7 +338,7 @@ By [Palko Lenard](https://connect.sensiolabs.com/profile/lenardpalko)
   <dd>We'll start by creating a fully-featured API in just a few minutes with API Platform, Symfony and Doctrine. The API will support pagination, data validation, access control, relation embedding, filters and error handling. It will expose many formats (JSON-LD, Hydra, JSONAPI, HAL, JSON, XML, YAML and CSV), will be documented with Swagger/OpenAPI and will have a nice UI done in React. Last but not least, the API will respond in a just few milliseconds thanks to its builtin invalidation based cache mechanism. Then, we will use the ReactJS tools provided by the API Platform to consume the exposed Hydra documentation. In a few more minutes, we will get a Material Design administration interface (a la Sonata / EasyAdmin - but 100% client-side) built with React. Finally, we'll discover 2 nice code generators to bootstrap a SPA (React, Redux and React Router) and iOS and Android mobile apps (React Native).</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/coopTilleuls/api-platform-and-symfony-a-framework-for-apidriven-projects)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
