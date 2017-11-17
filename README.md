@@ -130,7 +130,7 @@ By [Ivo Lukač](https://connect.sensiolabs.com/profile/gof)
   <dd>The Translator component is the one you learned how to use in 5 minutes and you have not thought much about it since. It just sits there in almost every project and just works. That is great, that is what a great component should do. The tricky part is how you build your development processes to work together with the translation process. You will start to notice problems when you have 4 or more languages. What other tools and services should you use? And how do you teach external translators to edit xliff files? Of course your should not force XML on non-developers. Taking the experiences learned from JMSTranslationBundle, Happyr’s translation bundles and the PHP-Translation organization; I will give you example of a few very concrete processes working with translations in a Symfony environment.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/TobiasNyholm/building-your-translation-process-82158757)  
 ~~Video~~
 
 By [Tobias Nyholm](https://connect.sensiolabs.com/profile/tobias)  
