@@ -370,7 +370,7 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
   <dd>This case study will take you to the technical backdrop of Emmanuel Macron's victorious campaign in the French presidential elections of 2017. We will reveal how the En-Marche and SensioLabs teams worked closely together to develop a collaborative, Open-Source and citizen platform with PHP 7 and Symfony to structure the movement. In addition to the technical and political issues involved in this project, we'll present solutions such as continuous deployment with Docker under Kubernetes, continuous integration with Circle CI, SCRUM and Kanban project management, use of Rabbitmq, Symfony 3 new features, and more. We'll demonstrate the importance of choosing these solutions to meet the agility and scalability needs of the highlights of the campaign.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/hhamon/building-an-open-source-campaign-platform-for-the-new-president-of-france)  
 ~~Video~~
 
 By [Hugo Hamon](https://connect.sensiolabs.com/profile/hhamon)  
