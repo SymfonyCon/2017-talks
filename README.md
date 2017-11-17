@@ -5,7 +5,7 @@
 
 ## Keynote
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/fabpot/flex)  
 ~~Video~~
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
