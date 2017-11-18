@@ -419,7 +419,7 @@ By [Pablo Godel](https://connect.sensiolabs.com/profile/pgodel)
   <dd>A lot happened! 52 blog posts to help you keep up with all new things, a looooot of pull requests, 2 new versions out… Well I'm sure you missed something. Let's review what happened during last year: basically we'll see and/or discover nice new features that appeared since the last year.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/saro0h/symfonycon-cluj-a-year-of-symfony)  
 ~~Video~~
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
