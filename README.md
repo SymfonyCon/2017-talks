@@ -386,8 +386,9 @@ By [Hugo Hamon](https://connect.sensiolabs.com/profile/hhamon)
   <dd>Is your Doctrine too slow or using too many resources on the server? In this presentation, you will learn the memory, I/O and CPU usage of different approaches. You will also see learn how to create proofs of concept and benchmarks to make a decision based on science instead of your gut feeling. I will even show you how to automate your performance testing.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://speakerdeck.com/afilina/doctrine-performance-optimization)  
+~~Video~~  
+[Code](https://github.com/afilina/doctrine-perf)
 
 By [Anna Filina](https://connect.sensiolabs.com/profile/afilina)  
 ![github](icon/github.png) [@afilina](https://github.com/afilina)  
