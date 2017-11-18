@@ -354,7 +354,7 @@ By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)
   <dd>The Dependency Injection component is one of the central pieces of any Symfony applications since version 2.0. Starting this winter, it has gained many new features that were needed to build the new Symfony 4 experience around Flex. While used extensively in core, can you leverage them in your own apps? Can you create a lazy iterator in Yaml? A scoped service locator? Configure auto-configuration? During this talk, I'll tell you about the new tags, interfaces or annotations that allow building powerful services. The goal: making your apps always more expressive, thus maintainable.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicolasgrekas/dependency-injection-component-v4-dot-0-symfonycon-cluj-2017)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
