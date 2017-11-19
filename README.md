@@ -457,3 +457,88 @@ And [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)
 By [Nils Adermann](https://connect.sensiolabs.com/profile/naderman)  
 ![github](icon/github.png) [@naderman](https://github.com/naderman)  
 ![twitter](icon/twitter.png) [@naderman](https://twitter.com/naderman)
+
+---
+
+## Eeek. My tests are mutating
+
+~~Slides~~  
+~~Video~~
+
+By [Caliman Alin Adrian](https://connect.sensiolabs.com/profile/acaliman)
+
+---
+
+## Simplify your application with a command bus
+
+~~Slides~~  
+~~Video~~
+
+By [Romaric Drigon](https://connect.sensiolabs.com/profile/romaricdrigon)  
+![github](icon/github.png) [@romaricdrigon](https://github.com/romaricdrigon)
+
+---
+
+## PHX - PHP syntax extension framework
+
+~~Slides~~  
+~~Video~~
+
+By [Pascal Münst](https://connect.sensiolabs.com/profile/timesplinter)  
+![github](icon/github.png) [@timesplinter](https://github.com/timesplinter)  
+![twitter](icon/twitter.png) [@PascalMySelf](https://twitter.com/PascalMySelf)
+
+---
+
+## Sulu: Tired of fixing your CMS instead of building great applications
+
+[Slides](https://speakerdeck.com/wachterjohannes/symfonycon-cluj-2017-batteries-included-thanks-to-symfony)  
+~~Video~~
+
+By [Wachter Johannes](https://connect.sensiolabs.com/profile/wjohannes)  
+![github](icon/github.png) [@timesplinter](https://github.com/timesplinter)  
+![twitter](icon/twitter.png) [@PascalMySelf](https://twitter.com/PascalMySelf)
+
+---
+
+## Diversity in the Symfony community
+
+~~Slides~~  
+~~Video~~
+
+By [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)  
+![github](icon/github.png) [@lsmith77](https://github.com/lsmith77)  
+![twitter](icon/twitter.png) [@lsmith](https://twitter.com/lsmith)
+
+---
+
+## ChubbyPHP - How to use a simple serializer
+
+[Slides](https://slideshare.net/dominikzogg/chubbyphp-deserialization)  
+~~Video~~
+
+By [Dominik Zogg](https://connect.sensiolabs.com/profile/dominik.zogg)  
+![github](icon/github.png) [@dominikzogg](https://github.com/dominikzogg)  
+![twitter](icon/twitter.png) [@dominikzogg](https://twitter.com/dominikzogg)
+
+---
+
+## Lets talk about Sylius and ecommerce with Symfony components
+
+~~Slides~~  
+~~Video~~
+
+By [Gabriel Udrescu](https://connect.sensiolabs.com/profile/gabiudrescu)  
+![github](icon/github.png) [@gabiudrescu](https://github.com/gabiudrescu)  
+![twitter](icon/twitter.png) [@gabiudrescu](https://twitter.com/gabiudrescu)
+
+---
+
+## Symfony Development Environment Automatio
+
+~~Slides~~  
+~~Video~~
+
+By [Cosmin-Romeo TANASE](https://connect.sensiolabs.com/profile/tanasecosminromeo)  
+![github](icon/github.png) [@tanasecosminromeo](https://github.com/tanasecosminromeo)  
+![twitter](icon/twitter.png) [@tcr92](https://twitter.com/tcr92)
