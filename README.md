@@ -434,4 +434,26 @@ By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)
 
 # Lightning Talks
 
+## 5 new initiatives to grow the community
 
+~~Slides~~  
+~~Video~~
+
+By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
+![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
+![twitter](icon/twitter.png) [@fabpot](https://twitter.com/fabpot)
+
+And [Lukas Kahwe Smith](https://connect.sensiolabs.com/profile/lsmith)  
+![github](icon/github.png) [@lsmith77](https://github.com/lsmith77)  
+![twitter](icon/twitter.png) [@lsmith](https://twitter.com/lsmith)
+
+---
+
+## composer.lock demystified
+
+[Slides](http://www.naderman.de/slippy/slides/2017-11-16-SymfonyCon-composer-lock-demystified.pdf)  
+~~Video~~
+
+By [Nils Adermann](https://connect.sensiolabs.com/profile/naderman)  
+![github](icon/github.png) [@naderman](https://github.com/naderman)  
+![twitter](icon/twitter.png) [@naderman](https://twitter.com/naderman)
