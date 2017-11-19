@@ -471,7 +471,7 @@ By [Caliman Alin Adrian](https://connect.sensiolabs.com/profile/acaliman)
 
 ## Simplify your application with a command bus
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/romaricdrigon/simplify-your-application-with-a-command-bus)  
 ~~Video~~
 
 By [Romaric Drigon](https://connect.sensiolabs.com/profile/romaricdrigon)  
