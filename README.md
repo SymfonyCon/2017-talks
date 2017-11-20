@@ -322,7 +322,7 @@ By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)
   <dd>Often clients already have a working product that they want to improve. In these cases starting to work on the project right away may turn into a development nightmare. Therefore assessing the technical status of the product is very important. Depending on the needs of the client this can be done from several points of view : technical standards, maintainability, performance, security, etc. This talk is going to cover how can you prepare an audit of a Symfony application, what should you look out for and how can the result of the audit impact further development on the project. I will talk also about what I found to be the best tools for the job and how can you get clients to see the benefits of it.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/lenardpalko/symfonycon2017-auditing-symfony-apps)  
 ~~Video~~
 
 By [Palko Lenard](https://connect.sensiolabs.com/profile/lenardpalko)  
