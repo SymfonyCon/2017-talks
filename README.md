@@ -114,7 +114,7 @@ By [Marco Pivetta](https://connect.sensiolabs.com/profile/ocramius)
   <dd>Due to complex web projects we work on, there was a need for deeper integration between content management system and eCommerce solution. As eZ Platform is based on Symfony we searched for a Symfony based ecommerce solution and found Sylius as the best choice. We combined the two systems in one Symfony instance so we can integrate on much deeper level. Learn about our experience with merging and maintaining such a solution.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/IvoLukac/merging-two-big-symfony-based-applications-symfonycon-2017)  
 ~~Video~~
 
 By [Ivo Lukač](https://connect.sensiolabs.com/profile/gof)  
