@@ -194,7 +194,7 @@ By [Larry Garfield](https://connect.sensiolabs.com/profile/crell)
   <dd>The world we live in is one where data is one of the most valuable assets. There are many different pieces of data we can analyse on all kind of data from analytics of user behaviour of your platform, user generated content, monitoring of exception rates, or when your core business model is to provide some kind of analytics platform. This talk will talk about how you can, in your Symfony applications, perform some simple trend analysis techniques to build models, analyse data to get useful information and spot anomalies.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/michaelcullum/trend-analysis-and-machine-learning-in-php)  
 ~~Video~~
 
 By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)  
