@@ -242,7 +242,7 @@ By [Mihai Nica](https://connect.sensiolabs.com/profile/redecs)
   <dd>Over the last few years I mostly worked with legacy PHP applications and one thing that comes up in each project is performance. Unfortunately more often than not discussion around performance issues are purely hypothetical or around micro-optimizations or the collected data is misinterpreted. In my talk I want to lay out how to effectively anticipate, identify and mitigate performance issues in a Symfony application. I want to discuss how to approach performance optimizations including micro-optimizations, some tools available to a developer for investigating and monitoring performance issues as well as some ways to improve performance, including a quick introduction to both application and HTTP-caching.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dbrumann/discovering-and-solving-performance-issues-1)  
 ~~Video~~
 
 By [Denis Brumann](https://connect.sensiolabs.com/profile/dbrumann)  
