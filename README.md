@@ -41,6 +41,7 @@ By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)
 ~~Video~~
 
 By [Caliman Alin Adrian](https://connect.sensiolabs.com/profile/acaliman)
+![github](icon/github.png) [@adrcal](https://github.com/adrcal)
 
 ---
 
@@ -466,6 +467,7 @@ By [Nils Adermann](https://connect.sensiolabs.com/profile/naderman)
 ~~Video~~
 
 By [Caliman Alin Adrian](https://connect.sensiolabs.com/profile/acaliman)
+![github](icon/github.png) [@adrcal](https://github.com/adrcal)
 
 ---
 
