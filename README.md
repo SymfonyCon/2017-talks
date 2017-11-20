@@ -258,7 +258,7 @@ By [Denis Brumann](https://connect.sensiolabs.com/profile/dbrumann)
   <dd>This session will dive into Composer's guts to see which choices we made worked and which ones did not. After six years and a few hundred thousand users, the Composer code has been through many iterations, problems and successes. Let's have a retrospective to see what we can learn from it.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slides.seld.be/?file=2017-11-16+Lessons+Learned+Building+the+Composer+Internals.html)  
 ~~Video~~
 
 By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)  
