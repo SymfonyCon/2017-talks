@@ -290,7 +290,7 @@ By [Sara Golemon](https://connect.sensiolabs.com/profile/sgolemon)
   <dd>Regular Expressions are one of the most powerful tools for every engineer in the IT industry. Though their reputation suffers from being misused or misunderstood, they still provide vast amounts of power coming from the theory behind them. In this talk, I will provide not only the necessary knowledge to understand how they work and what powers they bring to the table but I'll also explain some of the "arcane incantations", ie. some of the very powerful but hardly known RegEx constructs.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/thunderer/mastering-regex-incantations)  
 ~~Video~~
 
 By [Tomasz Kowalczyk](https://connect.sensiolabs.com/profile/thunderer)  
