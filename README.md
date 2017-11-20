@@ -306,7 +306,7 @@ By [Tomasz Kowalczyk](https://connect.sensiolabs.com/profile/thunderer)
   <dd>Ready to write an amazing front-end for your app? There are so many great tools, like React, Vue.js, module loaders, Sass, LESS, PostCSS and more. But, they all have one thing in common: you need to configure a build system before you write a single line of code! Thankfully, there's Webpack: the leading tool for processing & bundling your JavaScript and CSS. There's just one problem: configuring Webpack is tough and requires a lot of Webpack-specific knowledge. Say hello to Webpack Encore: a library built by Symfony to quickly bootstrap a sophisticated asset setup, complete with minification, SASS processing, automatic versioning, Babel support and everything you need to start writing great JavaScript quickly. In this talk, we'll also learn about using JavaScript modules, how to bootstrap a framework (like React) and other important modern practices. Give your assets a huge boost with Webpack Encore!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/weaverryan/webpack-encore-symfony-live-2017-san-francisco)  
 ~~Video~~
 
 By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)  
@@ -403,7 +403,7 @@ By [Anna Filina](https://connect.sensiolabs.com/profile/afilina)
   <dd>OpenSky is one of the first large ecommerce platforms to use Symfony2. The whole marketplace has been running on Symfony for many years. Over this talk we will share: how we use the framework and other PHP components; our deployment process; using Doctrine with MySQL and MongoDB; things we learned to avoid; running a large PHPUnit test suite; And more interesting tips on how our team operates with a large code base with a fully remote operation with teams across multiple continents.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/pgodel/symfony-live-san-francisco-2017-symfony-opensky)  
 ~~Video~~
 
 By [Pablo Godel](https://connect.sensiolabs.com/profile/pgodel)  
