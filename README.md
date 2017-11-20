@@ -466,7 +466,7 @@ By [Nils Adermann](https://connect.sensiolabs.com/profile/naderman)
 ~~Slides~~  
 ~~Video~~
 
-By [Caliman Alin Adrian](https://connect.sensiolabs.com/profile/acaliman)
+By [Caliman Alin Adrian](https://connect.sensiolabs.com/profile/acaliman)  
 ![github](icon/github.png) [@adrcal](https://github.com/adrcal)
 
 ---
