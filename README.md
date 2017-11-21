@@ -1,4 +1,4 @@
-# [Symfony Con - Clug 2017](https://clujcon2017.symfony.com/) talks
+# [Symfony Con - Cluj 2017](https://clujcon2017.symfony.com/) talks
 
 - All talks are in **english**.
 - Comment and rate talks on [joind.in](https://joind.in/event/symfonycon-cluj-2017/schedule/list)
