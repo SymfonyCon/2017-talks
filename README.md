@@ -56,7 +56,7 @@ By [Caliman Alin Adrian](https://connect.sensiolabs.com/profile/acaliman)
 ~~Video~~
 
 By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)  
-![github](icon/github.png) [@dbu](https://github.com/adrcal)  
+![github](icon/github.png) [@jpauli](https://github.com/jpauli)  
 ![twitter](icon/twitter.png) [@julienPauli](https://twitter.com/julienPauli)
 
 ---
