@@ -404,7 +404,7 @@ By [Anna Filina](https://connect.sensiolabs.com/profile/afilina)
   <dd>OpenSky is one of the first large ecommerce platforms to use Symfony2. The whole marketplace has been running on Symfony for many years. Over this talk we will share: how we use the framework and other PHP components; our deployment process; using Doctrine with MySQL and MongoDB; things we learned to avoid; running a large PHPUnit test suite; And more interesting tips on how our team operates with a large code base with a fully remote operation with teams across multiple continents.</dd>
 </dl>
 
-[Slides](https://slideshare.net/pgodel/symfony-live-san-francisco-2017-symfony-opensky)  
+[Slides](https://www.slideshare.net/pgodel/symfonycon-cluj-2017-symfony-at-opensky)  
 ~~Video~~
 
 By [Pablo Godel](https://connect.sensiolabs.com/profile/pgodel)  
