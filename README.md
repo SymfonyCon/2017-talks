@@ -498,8 +498,8 @@ By [Pascal Münst](https://connect.sensiolabs.com/profile/timesplinter)
 ~~Video~~
 
 By [Wachter Johannes](https://connect.sensiolabs.com/profile/wjohannes)  
-![github](icon/github.png) [@timesplinter](https://github.com/timesplinter)  
-![twitter](icon/twitter.png) [@PascalMySelf](https://twitter.com/PascalMySelf)
+![github](icon/github.png) [@wachterjohannes](https://github.com/wachterjohannes)  
+![twitter](icon/twitter.png) [@WachterJohannes](https://twitter.com/WachterJohannes)
 
 ---
 
